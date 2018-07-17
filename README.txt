@@ -8,5 +8,8 @@ codeskulptor browser editor. (http://www.codeskulptor.org/)
 3)Week 6 - create blackjack game -
            http://www.codeskulptor.org/#user45_eF3awu07ba_0.py
 
-4)Week 7 - start to make Rice Rocks game-
+4)Week 7 - start to make Rice Rocks game -
            http://www.codeskulptor.org/#user26_nE6rCAA1ik_21.py
+
+5)Week 8 - Rice Rocks game -
+           http://www.codeskulptor.org/#user27_L2LIdDqmiW_10.py
